@@ -45,7 +45,7 @@ A responsive dashboard interface built to demonstrate practical frontend layout 
 ## 🌐 Portfolio
 
 **Live Portfolio:**
-[View My Portfolio](YOUR_NETLIFY_PORTFOLIO_URL)
+[View My Portfolio]https://waqas-ashiq-portfolio.netlify.app
 
 ## 💼 Open to Opportunities
 
