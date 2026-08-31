@@ -59,11 +59,12 @@ I'm currently looking for:
 
 ## 📫 Contact
 
-**LinkedIn:** 
+GitHub: https://github.com/engrwaqas-star
+LinkedIn: https://www.linkedin.com/in/waqas-ashiq-b489b041b
 
 **Email:** waqasashiq0381@gmail.com 
 
-**WhatsApp:** [Contact Me](YOUR_WHATSAPP_LINK)
+**WhatsApp:** wa/me/03075204612
 
 ---
 
