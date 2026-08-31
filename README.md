@@ -64,7 +64,7 @@ LinkedIn: https://www.linkedin.com/in/waqas-ashiq-b489b041b
 
 **Email:** waqasashiq0381@gmail.com 
 
-**WhatsApp:** wa/me/03075204612
+**WhatsApp:** <a href="https://wa.me/923075204612" target="_blank" rel="noopener"><span>WHATSAPP</span>+92 307 5204612</a>
 
 ---
 
